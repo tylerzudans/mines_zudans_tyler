@@ -15,7 +15,7 @@ ROS package for making the turtlesim node draw the Mines "M". This was written f
 **Compile and Run**:
 (From within catkin_ws)
 
-1. $ `source /opt/ros/melodic/setup.bash'
+1. $ `source /opt/ros/melodic/setup.bash`
 1. $ `catkin_make`
 1. $ `source devel/setup.bash`
 1. $ `roslaunch mines_zudans_tyler draw_m.launch` (*if turlesim is already running*)
