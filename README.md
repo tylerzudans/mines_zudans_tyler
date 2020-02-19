@@ -17,3 +17,9 @@ ROS package for making the turtlesim node draw the Mines "M"
 2. source devel/setup.bash
 3. roslaunch mines_zudans_tyler draw_m.launch (*if turlesim is already running*)
 4. roslaunch mines_zudans_tyler turtlesim_and_draw_m.launch (*if no turtlesim is running*)
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
