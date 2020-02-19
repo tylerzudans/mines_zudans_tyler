@@ -1,7 +1,7 @@
 # ROS Melodic Package - mines_zudans_tyler
-ROS package for making the turtlesim node draw the Mines "M". This was written for Project 1: "Learning Robot Operating System" of Colorado School of Mines CSCI473 [http://inside.mines.edu/~hzhang/Courses/CSCI473-573/index.html] in February of 2020. The code is a ROS package that contains:
+ROS package for making the turtlesim node draw the Mines "M". This was written for Project 1: "Learning Robot Operating System" of Colorado School of [Mines CSCI473](http://inside.mines.edu/~hzhang/Courses/CSCI473-573/index.html) in February of 2020. The code is a ROS package that contains:
 
-1. A python script (mines_zudans_tyler/scripts/turtle_M_maker.py) that spawns a node that sends a set of Twist messages to the cmd_vel topic to make the turle move in the shape of an "M".
+1. A python script [mines_zudans_tyler/scripts/turtle_M_maker.py](https://github.com/tylerzudans/mines_zudans_tyler/blob/master/scripts/turtle_M_maker.py) that spawns a node that sends a set of Twist messages to the cmd_vel topic to make the turle move in the shape of an "M".
 1. Two launch files to run depending upon whether turtle_sim is already running
 
 **Installation**:
