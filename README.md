@@ -1,12 +1,12 @@
 # mines_zudans_tyler
 ROS package for making the turtlesim node draw the Mines "M"
 
-##Installation
+**Installation**
 -install ROS Melodic
 -install turtlesim
 -in your catkin_ws/scr clone this directory
 
-##Compile and Run
+**Compile and Run**
 From catkin_ws
 -catkin_make
 -source devel/setup.bash
